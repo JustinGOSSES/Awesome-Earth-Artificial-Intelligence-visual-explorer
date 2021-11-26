@@ -4,10 +4,11 @@
 <i>NOTE: You may be looking at a repository made with the template https://github.com/JustinGOSSES/awsome-list-visual-explorer-template or you may be looking at the actual code repository https://github.com/JustinGOSSES/awsome-list-visual-explorer-template. If the name of the code repository is not <b>awsome-list-visual-explorer-template</b>, you are looking at a code repository made with the template.</i>
 
 ## Description of this code repository if not the template:
-- Repository Name: 
-- Repository Authors: 
-- Purpose:
-- Link To Awesome List Sourced In This Code Project: 
+- Repository Name: Awesome-Earth-Artificial-Intelligence-visual-explorer
+- Repository Authors: Justin GOsses
+- Purpose: Visualize the Awesome-Earth-Artificial-Intelligence awesome list
+- </b>Link To Awesome List Sourced In This Code Project</b>: <b><a href="https://justingosses.github.io/Awesome-Earth-Artificial-Intelligence-visual-explorer/explore/">https://justingosses.github.io/Awesome-Earth-Artificial-Intelligence-visual-explorer/explore/</a></b>
+- Last Ran in Full On: 2021-11-24
 
 ### Contributing to this repository if not the template
 ------------ INFORMATION GOES HERE ------------
