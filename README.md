@@ -7,7 +7,8 @@
 - Repository Name: Awesome-Earth-Artificial-Intelligence-visual-explorer
 - Repository Authors: Justin GOsses
 - Purpose: Visualize the Awesome-Earth-Artificial-Intelligence awesome list
-- </b>Link To Awesome List Sourced In This Code Project</b>: <b><a href="https://justingosses.github.io/Awesome-Earth-Artificial-Intelligence-visual-explorer/explore/">https://justingosses.github.io/Awesome-Earth-Artificial-Intelligence-visual-explorer/explore/</a></b>
+- Link To Awesome List Parsed In This Code Project: https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence/blob/master/README.md
+- Link to Live Website: <b><a href="https://justingosses.github.io/Awesome-Earth-Artificial-Intelligence-visual-explorer/explore/">https://justingosses.github.io/Awesome-Earth-Artificial-Intelligence-visual-explorer/explore/</a></b>
 - Last Ran in Full On: 2021-11-24
 
 ### Contributing to this repository if not the template
